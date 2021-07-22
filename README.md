@@ -3,6 +3,7 @@
 
 ## Stats
 ![Damzz's GitHub stats](https://github-readme-stats.vercel.app/api?username=idhamthoriqbot&show_icons=true&theme=radical)
+![](https://visitor-badge.glitch.me/badge?page_id=idhamthoriqbot)
 
 ## Top Language 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=idhamthoriqbot)](https://github.com/anuraghazra/github-readme-stats)

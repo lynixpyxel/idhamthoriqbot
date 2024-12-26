@@ -2,15 +2,7 @@
 <h2>aku lynx</h2>
 <p align="center">
     <a href="https://instagram.com/dhamz._">
-      <img src="
-<a href="https://github.com/devxb/gitanimals">
-  <img
-    src="https://render.gitanimals.org/lines/lynixpyxel?pet-id=660266907144342388"
-    width="600"
-    height="120"
-  />
-</a>
-  " width="600" height="120" />
+      <img src="https://render.gitanimals.org/lines/lynixpyxel?pet-id=660266907144342388" width="600" height="120" />
     </a>
 </p>
 

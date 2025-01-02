@@ -24,6 +24,8 @@
   <img src="https://img.shields.io/badge/-C++-blue?style=for-the-badge&logo=cplusplus" alt="C++" />
   <img src="https://img.shields.io/badge/-Arduino-blue?style=for-the-badge&logo=arduino" alt="Arduino" />
   <img src="https://img.shields.io/badge/-Javascript-yellow?style=for-the-badge&logo=javascript" alt="JS" />
+  <img src="https://img.shields.io/badge/-Node.js-green?style=for-the-badge&logo=node.js" alt="Node JS" />
+  <img src="https://img.shields.io/badge/-React JS-blue?style=for-the-badge&logo=react" alt="React JS" />
   <img src="https://img.shields.io/badge/-Docker-blue?style=for-the-badge&logo=docker" alt="Docker" />
 </p>
 
